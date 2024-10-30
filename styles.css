@@ -7,4 +7,89 @@
 * {
     margin:0;
     padding: 0;
+    font-family: "Roboto", sans-serif;
+}
+
+.header {
+    background-color: #1F2937;
+}
+.header h3 {
+    color: #F9FAF8;
+    font-size: 24px;
+}
+
+.header ul li a {
+    text-decoration: none;
+    list-style: none;
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.hero {
+    background-color: #1F2937;
+}
+
+.hero h1 {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.hero p {
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.hero button {
+    background-color: #3882F6;
+    border: none;
+    color: #E5E7EB;
+    padding: 10px 24px;
+    border-radius: 12px;
+}
+
+.random h2 {
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: 900;
+}
+
+.random p {
+    font-size: 18px;
+}
+
+.quote {
+    background-color: #E5E7EB;
+}
+
+.quote p {
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: 100;
+    font-style: italic;
+}
+
+.quote h3 {
+    color: #1f2937;
+    font-style: normal;
+    font-size: 30px;
+}
+
+.footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+}
+
+.call-container-out button {
+    background-color: #3882F6;
+    color: #E5E7EB;
+    padding: 10px 24px;
+    border-radius: 12px;
+    border-color: #E5E7EB;
+    border-style: solid;
+    border-width: 3px;
+}
+
+.call-container-in {
+    background-color: #3882F6;
 }
