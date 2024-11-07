@@ -79,6 +79,7 @@ body{
     border-radius: 12px;
     font: inherit;
     margin-top: 10px;
+    cursor: pointer;
 }
 .hero-container {
 	max-width: 100%;
@@ -156,10 +157,23 @@ body{
     border-style: solid;
     border-width: 3px;
     font: inherit;
+    cursor: pointer;
 }
 
 .call-container-in {
     background-color: #3882F6;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 25px;
+    margin:80px 225px;
+}
+
+.call-div {
+    color: #E5E7EB;
+}
+
+.call-div h4 {
+    font-size: 25px;
 }
 
 .footer {

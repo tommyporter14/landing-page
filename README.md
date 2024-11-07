@@ -1,6 +1,7 @@
 # Landing Page Project - The Odin Project - Foundations Course
 ABOUT:
 
+Practiced CSS basics and use of flexbox to make a simple landing page. I feel like this allowed me to understand flexbox more. I plan to revisit this once I have a more solid understanding of CSS. Although it looks good on my screen (13in macbook) I feel like the scalability isn't there yet. Anyways I'm proud of my progress so far.
 
 Image Credits:
 
