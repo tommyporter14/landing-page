@@ -1,5 +1,5 @@
 .container {
-	width: 960px;
+	width: 1100px;
 	max-width: 100%;
 	padding: 20px;
 	margin: 0 auto;
@@ -24,4 +24,28 @@
 .main-nav a {
 	display: inline-block;
 	padding: .5em 1.5em;
+}
+
+.hero-container {
+	width: 900px;
+	max-width: 100%;
+	padding: 20px;
+	margin: 0 auto;
+}
+
+.hero .hero-container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	max-width: auto;
+}
+
+.hero-container img {
+	width: 70%;
+    height: auto;
+	margin-left: 170px;
+}
+
+.hero-text {
+	margin-left: 10px;
 }
